@@ -16,3 +16,7 @@ The GIF below shows the implementation of RRT* algorithm for motion planning of 
   <img src = "https://github.com/sanchit3103/manipulator_motion_planning_rrt-star/assets/4907348/7305de86-5261-40b4-9ec7-e78690aa49d6)" height="400"/>
 
 </p>
+
+## Details to run the code
+
+* <b> main.ipynb: </b> Notebook which includes the plotting of configuration space and implementation of RRT* algorithm.
